@@ -5,8 +5,6 @@ public class LargestNumber {
 
         public static void main(String[] args) {
 
-           // double n1 = -4.5, n2 = 3.9, n3 = 2.5;
-
             Scanner reader = new Scanner(System.in);
 
             System.out.print("Enter a First Number: ");

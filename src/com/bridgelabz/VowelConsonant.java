@@ -10,7 +10,6 @@ public class VowelConsonant {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a character : ");
         char ch=sc.next( ).charAt(0);
-        //char ch=sc.nextChar();
         switch(ch)
         {
             case  'a' :
